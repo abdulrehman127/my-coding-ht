@@ -1,2 +1,3 @@
 # my-coding-ht
-this is not a brief description on how to explain my field
+This is my first repository file
+Author-Abdulrehman
